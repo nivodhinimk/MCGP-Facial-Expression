@@ -1,0 +1,11 @@
+Dataset Source
+==============
+
+Dataset Name: 
+JAFFE Dataset
+
+Source: 
+https://zenodo.org/records/14974867
+
+Description:
+The JAFFE dataset used in this project was obtained from the Zenodo repository available at the above link. The dataset is publicly available and is used solely for research and educational purposes.
